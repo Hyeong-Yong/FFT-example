@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\",
+  "WorkspaceRootPath": "C:\\Dev\\C#\\FFT-example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|c:\\dev\\c#\\fastfouriertransform(fft)-example\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|c:\\dev\\c#\\fft-example\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|c:\\dev\\c#\\fastfouriertransform(fft)-example\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|c:\\dev\\c#\\fft-example\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|c:\\dev\\c#\\fft-example\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\fastfouriertransform(fft)-example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|solutionrelative:fastfouriertransform(fft)-example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|c:\\dev\\c#\\fft-example\\fastfouriertransform(fft)-example.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|solutionrelative:fastfouriertransform(fft)-example.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\fastfouriertransform(fft)-example.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|solutionrelative:fastfouriertransform(fft)-example.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|c:\\dev\\c#\\fft-example\\fastfouriertransform(fft)-example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAF11132-954E-4775-952C-C11F3E444701}|FastFourierTransform(FFT)-Example.csproj|solutionrelative:fastfouriertransform(fft)-example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,64 +34,60 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Dev\\C#\\FFT-example\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Dev\\C#\\FFT-example\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:35:11.331Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Dev\\C#\\FFT-example\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Dev\\C#\\FFT-example\\MainForm.Designer.cs",
               "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AQIAADwBAAAAAAAAAAA2wEUBAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:41:41.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\MainForm.cs",
+              "DocumentMoniker": "C:\\Dev\\C#\\FFT-example\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\MainForm.cs",
+              "ToolTip": "C:\\Dev\\C#\\FFT-example\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAnwFgAAAARAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAnwGkAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:13:24.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\MainForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T14:12:16.816Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "FastFourierTransform(FFT)-Example",
-              "DocumentMoniker": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\FastFourierTransform(FFT)-Example.csproj",
+              "DocumentMoniker": "C:\\Dev\\C#\\FFT-example\\FastFourierTransform(FFT)-Example.csproj",
               "RelativeDocumentMoniker": "FastFourierTransform(FFT)-Example.csproj",
-              "ToolTip": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\FastFourierTransform(FFT)-Example.csproj",
+              "ToolTip": "C:\\Dev\\C#\\FFT-example\\FastFourierTransform(FFT)-Example.csproj",
               "RelativeToolTip": "FastFourierTransform(FFT)-Example.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-19T14:20:08.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FastFourierTransform(FFT)-Example",
-              "DocumentMoniker": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\FastFourierTransform(FFT)-Example.csproj",
+              "DocumentIndex": 4,
+              "Title": "FastFourierTransform(FFT)-Example.csproj",
+              "DocumentMoniker": "C:\\Dev\\C#\\FFT-example\\FastFourierTransform(FFT)-Example.csproj",
               "RelativeDocumentMoniker": "FastFourierTransform(FFT)-Example.csproj",
-              "ToolTip": "C:\\Dev\\C#\\FastFourierTransform(FFT)-Example\\FastFourierTransform(FFT)-Example.csproj",
+              "ToolTip": "C:\\Dev\\C#\\FFT-example\\FastFourierTransform(FFT)-Example.csproj",
               "RelativeToolTip": "FastFourierTransform(FFT)-Example.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

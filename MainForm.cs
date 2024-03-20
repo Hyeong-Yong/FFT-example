@@ -94,10 +94,13 @@ namespace FastFourierTransform_FFT__Example {
         }
 
         public void PlotFFT() {
+
             chart2.Series["Frequency"].Points.Clear();
+            chart3.Series["Waveform"].Points.Clear();
 
             // "Forward" Fourier converts time => frequency
             Fourier.Forward(samples, FourierOptions.NoScaling);
+
 
             // Plot the frequency spectrum. Since it's "bidirectional bandwidth",
             // you only need the bottom 1/2 of the samples
@@ -117,7 +120,17 @@ namespace FastFourierTransform_FFT__Example {
                 chart2.Series["Frequency"].Points.AddXY(hzPerSample * i, mag);
 
             }
+
+            Fourier.Inverse(samples);
+            for (int i = 1; i < samples.Length / 10; i++) {
+
+                chart3.Series["Waveform"].Points.AddXY(i, samples[i].Real);
+            }
+
+
         }
+
+
         //Event Handlers
         private void trkThird_Scroll(object sender, EventArgs e) {
             //Plot resultant waveform, then plot FFT

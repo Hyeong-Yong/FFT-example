@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FastFourierTransform(FFT)-Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43bd812c084e28cf88e2dc8afde617e36e2a8a68")]
 [assembly: System.Reflection.AssemblyProductAttribute("FastFourierTransform(FFT)-Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FastFourierTransform(FFT)-Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
